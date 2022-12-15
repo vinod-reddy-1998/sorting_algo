@@ -1,0 +1,23 @@
+sorting is classified into two types..
+1>>>comparsion based
+2>>>index based
+
+
+1>>>>>>>>>comparsion based consists of 
+a>>selection
+b>>insertion
+c>>bubble sorting
+d>>merge sort
+e>>quick sort
+f>>shell sort
+g>>heap sort
+
+
+
+2>>>index based consist of :
+a>count sort
+b>bucket sort
+c>radix sort
+
+
+
